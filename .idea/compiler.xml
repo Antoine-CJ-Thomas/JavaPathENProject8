@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="8">
+      <module name="JavaPathENProject8.main" target="1.8" />
+      <module name="JavaPathENProject8.test" target="1.8" />
+      <module name="JavaPathENProject8.TourGuide" target="1.8" />
+      <module name="JavaPathENProject8.User.main" target="1.8" />
+      <module name="JavaPathENProject8.User.test" target="1.8" />
+      <module name="NewTourGuide" target="1.8" />
+      <module name="NewTourGuide.main" target="1.8" />
+      <module name="NewTourGuide.test" target="1.8" />
+      <module name="TourGuide" target="1.8" />
+      <module name="TourGuide.main" target="1.8" />
+      <module name="TourGuide.test" target="1.8" />
+      <module name="untitled" target="12" />
+      <module name="untitled.main" target="12" />
+      <module name="untitled.test" target="12" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
